@@ -1,0 +1,1 @@
+Using my knowledge of python I solved the test, I delayed the delivery because I was trying to improve my skills in golang but I didn't want to take too long to send it back
